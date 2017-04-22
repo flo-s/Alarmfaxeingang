@@ -1,0 +1,8 @@
+C:\Projekte\Alarmfaxeingang\Alarmfaxeingang\bin\Release\Alarmfaxeingang.exe.config
+C:\Projekte\Alarmfaxeingang\Alarmfaxeingang\bin\Release\Alarmfaxeingang.exe
+C:\Projekte\Alarmfaxeingang\Alarmfaxeingang\bin\Release\Alarmfaxeingang.pdb
+C:\Projekte\Alarmfaxeingang\Alarmfaxeingang\obj\Release\Alarmfaxeingang.Form1.resources
+C:\Projekte\Alarmfaxeingang\Alarmfaxeingang\obj\Release\Alarmfaxeingang.Properties.Resources.resources
+C:\Projekte\Alarmfaxeingang\Alarmfaxeingang\obj\Release\Alarmfaxeingang.csproj.GenerateResource.Cache
+C:\Projekte\Alarmfaxeingang\Alarmfaxeingang\obj\Release\Alarmfaxeingang.exe
+C:\Projekte\Alarmfaxeingang\Alarmfaxeingang\obj\Release\Alarmfaxeingang.pdb

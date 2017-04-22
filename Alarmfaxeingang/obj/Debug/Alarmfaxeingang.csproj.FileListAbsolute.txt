@@ -1,0 +1,9 @@
+C:\Projekte\Alarmfaxeingang\Alarmfaxeingang\bin\Debug\Alarmfaxeingang.exe.config
+C:\Projekte\Alarmfaxeingang\Alarmfaxeingang\bin\Debug\Alarmfaxeingang.exe
+C:\Projekte\Alarmfaxeingang\Alarmfaxeingang\bin\Debug\Alarmfaxeingang.pdb
+C:\Projekte\Alarmfaxeingang\Alarmfaxeingang\obj\Debug\Alarmfaxeingang.csprojResolveAssemblyReference.cache
+C:\Projekte\Alarmfaxeingang\Alarmfaxeingang\obj\Debug\Alarmfaxeingang.Form1.resources
+C:\Projekte\Alarmfaxeingang\Alarmfaxeingang\obj\Debug\Alarmfaxeingang.Properties.Resources.resources
+C:\Projekte\Alarmfaxeingang\Alarmfaxeingang\obj\Debug\Alarmfaxeingang.csproj.GenerateResource.Cache
+C:\Projekte\Alarmfaxeingang\Alarmfaxeingang\obj\Debug\Alarmfaxeingang.exe
+C:\Projekte\Alarmfaxeingang\Alarmfaxeingang\obj\Debug\Alarmfaxeingang.pdb
